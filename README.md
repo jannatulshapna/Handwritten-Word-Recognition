@@ -34,6 +34,7 @@ precision, and recall metrics. The model gives 39% WER score,
 accuracy, and 85% percent f1 scores using overlapped data
 
 **Architecture**
+
  ![](./images/f.png)
 
 
