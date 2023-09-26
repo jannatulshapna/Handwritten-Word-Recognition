@@ -35,7 +35,7 @@ accuracy, and 85% percent f1 scores using overlapped data
 
 **Architecture**
 
- ![Framework](./images/generationprocess.png)
+ ![Framework](./f.png)
 
 
 **Generated dataset sample**
