@@ -46,7 +46,10 @@ accuracy, and 85% percent f1 scores using overlapped data
 
 
 **Paper Link**
-https://www.mdpi.com/1999-5903/14/9/252
+https://ieeexplore.ieee.org/abstract/document/10021025
+
+**PDF Copy**
+https://arxiv.org/ftp/arxiv/papers/2303/2303.07514.pdf
 
 **My Google scholar**
 https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=PHg000cAAAAJ
@@ -56,27 +59,23 @@ https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=PHg000c
 
   Bibtex:  
   
-  @article{akter2022forecasting,
-  title={Forecasting the risk factor of frontier markets: A novel stacking ensemble of neural network approach},
-  author={Akter, Mst Shapna and Shahriar, Hossain and Chowdhury, Reaz and Mahdy, MRC},
-  journal={Future Internet},
-  volume={14},
-  number={9},
-  pages={252},
+  @inproceedings{akter2022handwritten,
+  title={Handwritten word recognition using deep learning approach: A novel way of generating handwritten words},
+  author={Akter, Mst Shapna and Shahriar, Hossain and Cuzzocrea, Alfredo and Ahmed, Nova and Leung, Carson},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)},
+  pages={5414--5423},
   year={2022},
-  publisher={MDPI}
+  organization={IEEE}
 }
 
 
 MLA:
 
-Akter, Mst Shapna, et al. "Forecasting the risk factor of frontier markets: A novel stacking ensemble of neural network approach." Future Internet 14.9 (2022): 252.
+Akter, Mst Shapna, et al. "Handwritten word recognition using deep learning approach: A novel way of generating handwritten words." 2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022.
 
 APA:
 
-Akter, M. S., Shahriar, H., Chowdhury, R., & Mahdy, M. R. C. (2022). Forecasting the risk factor of frontier markets: A novel stacking ensemble of neural network approach. Future Internet, 14(9), 252.
-   
-
+Akter, M. S., Shahriar, H., Cuzzocrea, A., Ahmed, N., & Leung, C. (2022, December). Handwritten word recognition using deep learning approach: A novel way of generating handwritten words. In 2022 IEEE International Conference on Big Data (Big Data) (pp. 5414-5423). IEEE.
 
 
 
